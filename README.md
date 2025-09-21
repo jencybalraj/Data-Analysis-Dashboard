@@ -17,3 +17,12 @@
 - Which region contributes the highest share of revenue?
 - How does sales distribution vary across regions?
 - Which customer segment (e.g., Retail, Corporate, Consumer) generates the most sales?
+
+- Dashboard Interaction <a href="https://github.com/jencybalraj/Data-Analysis-Dashboard/blob/main/excel%20sales%20dashboard.png"View  Dashboard</a>
+## Process
+- Collected and cleaned Amazon sales data (removed duplicates, fixed formats, added month column).
+- Identified KPIs: Revenue, Profit, Orders, Quantity, Discount %.
+- Built PivotTables & KPI cards for performance tracking.
+- Created charts: Revenue/Profit trends, Top Products, Categories, Regions.
+- Added slicers for Month, Category, Region to enable interactivity.
+- Designed dashboard with clean layout, consistent formatting, and dynamic visuals.
