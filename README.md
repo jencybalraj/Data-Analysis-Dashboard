@@ -18,7 +18,7 @@
 - How does sales distribution vary across regions?
 - Which customer segment (e.g., Retail, Corporate, Consumer) generates the most sales?
 
-- Dashboard Interaction <a href="https://github.com/jencybalraj/Data-Analysis-Dashboard/blob/main/excel%20sales%20dashboard.png>"View  Dashboard</a>
+- Dashboard Intera<tion <a href="https://github.com/jencybalraj/Data-Analysis-Dashboard/blob/main/excel%20sales%20dashboard.png">View  Dashboard</a>
 ## Process
 - Collected and cleaned Amazon sales data (removed duplicates, fixed formats, added month column).
 - Identified KPIs: Revenue, Profit, Orders, Quantity, Discount %.
