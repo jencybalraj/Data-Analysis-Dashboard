@@ -28,3 +28,5 @@
 - Designed dashboard with clean layout, consistent formatting, and dynamic visuals.
 
  ## Dashboard
+
+<img width="646" height="401" alt="excel sales dashboard" src="https://github.com/user-attachments/assets/7a6e4710-0ffe-4a73-b54c-d7c9213db0e3" />
