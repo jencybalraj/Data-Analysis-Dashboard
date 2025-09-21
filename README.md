@@ -1,2 +1,2 @@
-# Data-Analysis-Dashboard
-Analyzed Amazon sales data in Excel by cleaning and structuring raw data, building KPI-driven PivotTables, and designing an interactive dashboard with slicers and visuals to track trends across time, categories, regions, and customer segments.
+Title: Amazon Sales Data Analysis & Dashboard in Excel
+Objective: To analyze Amazon’s sales data, track key KPIs, and visualize trends through an interactive Excel dashboard for better decision-making.
